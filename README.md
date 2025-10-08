@@ -7,4 +7,4 @@
 > Solution code is my own work unless stated otherwise - feedback is always welcome!
 >
 
-## Take a look at the [wiki](#)!
+## Take a look at the [wiki](https://github.com/TySP-Dev/Learn-Python/wiki)!
