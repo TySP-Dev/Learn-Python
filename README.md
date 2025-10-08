@@ -20,10 +20,14 @@ A hands-on Python learning resource featuring practice problems, detailed concep
 - **Code Reviews**: Get feedback on your code from the community
 - **Tools Guide**: Recommendations for Python development tools and setup
 
+## 📖 Wiki
+
+Visit our [Wiki](https://github.com/TySP-Dev/Learn-Python/wiki) to get started!
+
 ## 🚀 Quick Start
 
 ### 1. Set Up Your Environment
-Follow our [Development Environment Setup Guide](https://github.com/TySP-Dev/Learn-Python/wiki/Setting-Up-Your-Development-Environment) to install:
+Follow our [Development Environment Setup Guide](https://github.com/TySP-Dev/Learn-Python/wiki/Set-up-your-development-environment) to install:
 - Python 3.x
 - Git
 - Jupyter Notebook/Lab
@@ -61,14 +65,6 @@ Learn-Python/
 ├── resources/             # Additional learning materials
 └── README.md
 ```
-
-## 📖 Documentation
-
-Visit our [Wiki](https://github.com/TySP-Dev/Learn-Python/wiki) for:
-- **[Getting Started Guide](https://github.com/TySP-Dev/Learn-Python/wiki)**
-- **[Python Concepts](https://github.com/TySP-Dev/Learn-Python/wiki)** - Variables, data types, loops, functions, OOP, and more
-- **[Best Practices](https://github.com/TySP-Dev/Learn-Python/wiki)** - Writing clean, Pythonic code
-- **[Code Review Process](https://github.com/TySP-Dev/Learn-Python/wiki/Code-Review!)** - Get feedback on your code
 
 ## 💬 Getting Help
 
