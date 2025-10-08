@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/TySP-Dev/Learn-Python?style=social)](https://github.com/TySP-Dev/Learn-Python/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/TySP-Dev/Learn-Python?style=social)](https://github.com/TySP-Dev/Learn-Python/network/members)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 > [!NOTE]
 > I'm one person trying to provide a free learning resource.
@@ -10,7 +10,7 @@
 > However, all content is human-reviewed for accuracy and quality.
 > Solution code is my own work unless stated otherwise - feedback is always welcome!
 
-A comprehensive, hands-on Python learning resource featuring practice problems, detailed concept breakdowns, and a supportive community for learners at all levels.
+A hands-on Python learning resource featuring practice problems, detailed concept breakdowns, and a supportive community for learners at all levels.
 
 ## 📚 What's Inside
 
@@ -121,7 +121,7 @@ As a solo maintainer, reviews may take a few days. I'll provide feedback and wor
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## ⭐ Support
 
