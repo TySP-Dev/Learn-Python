@@ -1,15 +1,82 @@
 # Welcome to Learn-Python! 🐍
 
+[![GitHub stars](https://img.shields.io/github/stars/TySP-Dev/Learn-Python?style=social)](https://github.com/TySP-Dev/Learn-Python/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/TySP-Dev/Learn-Python?style=social)](https://github.com/TySP-Dev/Learn-Python/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 > [!NOTE]
 > I'm one person trying to provide a free learning resource.
 > Updates may feel slow, and wiki documents are AI-assisted.
 > However, all content is human-reviewed for accuracy and quality.
 > Solution code is my own work unless stated otherwise - feedback is always welcome!
->
 
-## Take a look at the [wiki](https://github.com/TySP-Dev/Learn-Python/wiki)!
+A comprehensive, hands-on Python learning resource featuring practice problems, detailed concept breakdowns, and a supportive community for learners at all levels.
 
-## Contributing
+## 📚 What's Inside
+
+- **Practice Problems**: Jupyter Notebook exercises ranging from beginner to advanced
+- **Detailed Solutions**: Every problem includes thoroughly commented solutions
+- **Concept Wiki**: In-depth explanations of Python fundamentals and best practices
+- **Code Reviews**: Get feedback on your code from the community
+- **Tools Guide**: Recommendations for Python development tools and setup
+
+## 🚀 Quick Start
+
+### 1. Set Up Your Environment
+Follow our [Development Environment Setup Guide](https://github.com/TySP-Dev/Learn-Python/wiki/Setting-Up-Your-Development-Environment) to install:
+- Python 3.x
+- Git
+- Jupyter Notebook/Lab
+- A code editor (VS Code recommended)
+
+### 2. Clone the Repository
+```bash
+git clone https://github.com/TySP-Dev/Learn-Python.git
+cd Learn-Python
+```
+
+### 3. Start Learning!
+```bash
+# Install Jupyter if you haven't already
+pip install jupyterlab
+
+# Launch Jupyter
+jupyter lab
+
+# Open any notebook in the problems folder and start coding!
+```
+
+## 📂 Repository Structure
+
+```
+Learn-Python/
+├── problems/
+│   ├── beginner/          # Beginner-friendly exercises
+│   ├── intermediate/      # Intermediate challenges
+│   └── advanced/          # Advanced problems
+├── solutions/
+│   ├── beginner/          # Solutions with detailed explanations
+│   ├── intermediate/
+│   └── advanced/
+├── resources/             # Additional learning materials
+└── README.md
+```
+
+## 📖 Documentation
+
+Visit our [Wiki](https://github.com/TySP-Dev/Learn-Python/wiki) for:
+- **[Getting Started Guide](https://github.com/TySP-Dev/Learn-Python/wiki)**
+- **[Python Concepts](https://github.com/TySP-Dev/Learn-Python/wiki)** - Variables, data types, loops, functions, OOP, and more
+- **[Best Practices](https://github.com/TySP-Dev/Learn-Python/wiki)** - Writing clean, Pythonic code
+- **[Code Review Process](https://github.com/TySP-Dev/Learn-Python/wiki/Code-Review!)** - Get feedback on your code
+
+## 💬 Getting Help
+
+- **Questions about Python?** Open a [discussion](https://github.com/TySP-Dev/Learn-Python/discussions)
+- **Found a bug?** Submit an [issue](https://github.com/TySP-Dev/Learn-Python/issues)
+- **Want code review?** Check out our [Code Review Guide](https://github.com/TySP-Dev/Learn-Python/wiki/Code-Review!)
+
+## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -42,7 +109,7 @@ PRs are encouraged, but all submissions must be reviewed and approved by myself 
 **New Problems**
 - Provide a clear problem description
 - Include at least one solution with explanation
-- Indicate difficulty level (Beginner/Intermediate/Challenges)
+- Indicate difficulty level (Beginner/Intermediate/Advanced)
 
 ### ⚠️ What Not to Submit
 - AI-generated solutions without personal understanding
@@ -52,4 +119,23 @@ PRs are encouraged, but all submissions must be reviewed and approved by myself 
 ### Review Process
 As a solo maintainer, reviews may take a few days. I'll provide feedback and work with you to refine contributions before merging. All PRs require approval from myself or featured contributors before they can be merged.
 
-**Questions?** Open an issue and I'll be happy to discuss!
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## ⭐ Support
+
+If you find this resource helpful, please consider:
+- ⭐ Starring the repository
+- 🔄 Sharing it with others
+- 🤝 Contributing your own problems and solutions
+
+## 🙏 Acknowledgments
+
+Thank you to all contributors and learners who help make this resource better!
+
+---
+
+**Questions?** [Open an issue](https://github.com/TySP-Dev/Learn-Python/issues) and I'll be happy to discuss!
+
+**Happy Coding!** 🐍✨
